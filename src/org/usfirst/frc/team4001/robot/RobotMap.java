@@ -16,4 +16,5 @@ public class RobotMap {
     // public static int rangefinderPort = 1;
     // public static int rangefinderModule = 1;
 	public static int intake_motor_port = 19;
+	public static int intake_switch = 8;
 }
